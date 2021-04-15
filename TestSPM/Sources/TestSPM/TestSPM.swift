@@ -10,4 +10,8 @@ public struct TestSPM {
         print("Hello, \(name)!")
     }
     
+    public func sayByebye(name: String) {
+        print("See you later, \(name)!")
+    }
+    
 }
